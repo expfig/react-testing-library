@@ -1,0 +1,19 @@
+.signin-main{
+  width: 100%;
+  padding-top: 34px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.children{
+  width: 50%;
+  flex-direction: column;
+
+}
+.wrapper-button{
+  width: 100%;
+  padding-left: 4px;
+
+}
